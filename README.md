@@ -25,44 +25,6 @@ Atualmente, estou direcionando minha carreira para a interseção entre **Engenh
 
 ---
 
-## 🔥 Projetos em destaque
-
-### 📊 Healthcare PDF Data Pipeline
-
-Pipeline para transformar **PDFs médicos não estruturados em dados prontos para análise e Machine Learning**.
-
-* Extração de dados não estruturados
-* Processamento e limpeza com Python
-* Output estruturado (CSV/Parquet)
-
-🔗 (link)
-
----
-
-### 🤖 LLM aplicado a documentos de saúde
-
-Sistema para consulta inteligente de documentos utilizando modelos de linguagem.
-
-* Embeddings + busca vetorial
-* Integração com LLM open source
-* Query sobre dados não estruturados
-
-🔗 (link)
-
----
-
-### ⚙️ Data Pipeline & Feature Engineering
-
-Pipeline de dados voltado à preparação de datasets para aplicações de Machine Learning.
-
-* ETL completo
-* Feature engineering
-* Dados prontos para ML
-
-🔗 (link)
-
----
-
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
